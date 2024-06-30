@@ -14,8 +14,4 @@ Discover your next favorite book, movie, or gadget with our personalized recomme
 3. Browse through the personalized suggestions.
 4. Click on any item to view more details or make a purchase.
 
-## Support
-For any issues or feedback, please contact our support team at support@amazon.com.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
