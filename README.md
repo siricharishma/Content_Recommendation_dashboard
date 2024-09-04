@@ -1,4 +1,4 @@
-# Content Recommendation Dashboard
+#AmazonPrime Content Analysis  Dashboard
 
 ## Description
 Discover your next favorite book, movie, or gadget with our personalized recommendations. Tailored to your unique preferences, our dashboard ensures you never miss out on the latest must-haves. Explore a world of endless possibilities right at your fingertips.
